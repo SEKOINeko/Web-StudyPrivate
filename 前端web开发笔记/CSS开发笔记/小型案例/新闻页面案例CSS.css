@@ -1,0 +1,24 @@
+h2 {
+    text-align: center;
+}
+
+.lighterbold {
+    color: gray;
+    font-weight: lighter;
+}
+p {
+    font-weight:400px;
+    text-decoration: none;
+    text-indent: 2em;
+    line-height: 2em;
+}
+div {
+    text-align: right;
+}
+
+.undera {
+    text-decoration: none;
+}
+.pic {
+    text-align: center;
+}

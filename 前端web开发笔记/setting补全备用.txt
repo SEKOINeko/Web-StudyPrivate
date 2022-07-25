@@ -1,0 +1,45 @@
+{
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "launch": {
+        "configurations": [
+        
+        ]
+    },
+    "C_Cpp.default.intelliSenseMode": "gcc-x64",
+    "explorer.confirmDelete": false,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "editor.inlineSuggest.enabled": true,
+    "editor.linkedEditing": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false,
+        "html": true
+    },
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "files.associations": {
+        "*.html": "html"
+    },
+    "[html]": {
+
+        "editor.suggest.insertMode": "replace"
+    }
+    "files.associations": {
+        "*.vue":"html"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "vue-html":"html",
+        "vue":"html"
+    }
+
+}
